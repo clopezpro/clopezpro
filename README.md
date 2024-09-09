@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate in proyect of vue.js and node.js
 - 📫 How to reach me, you can send an email to clopezpro@outlook.com or writing to my discord  clopezpro#9769
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clopezpro&show_icons=true&theme=dark)
